@@ -44,9 +44,8 @@
     - MCU Programming ( PlatformIO and Espressif)
     - PCB Design and Soldering ( EasyEDA)
     - MQTT Server setup and hosting
-  
----
-
+  ---
+ ![View Count](https://komarev.com/ghpvc/?username=Tejas-MD)
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
