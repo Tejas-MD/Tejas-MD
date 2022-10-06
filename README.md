@@ -25,6 +25,13 @@
 - C/C++ Programming
 - PCB Design and Development 
 - IOT and MQTT + Server hosting
+  
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-MD&count_private=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 
@@ -44,8 +51,12 @@
     - MCU Programming ( PlatformIO and Espressif)
     - PCB Design and Soldering ( EasyEDA)
     - MQTT Server setup and hosting
+
+
   ---
  ![View Count](https://komarev.com/ghpvc/?username=Tejas-MD)
+
+
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
