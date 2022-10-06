@@ -8,16 +8,16 @@
 - 🔭 Check out my [LinkedIn](https://www.linkedin.com/in/tejas-mutalikdesai-58ba09235/)
 - 🌱 I’m currently working on project: [CT Simulation with Moving Lasers](https://docs.google.com/document/d/14qEi4-DhuViR_02i8h5yAK59J4nv9JzEeDy14A1wQRc/edit?usp=sharing)
 - 👯 I’m interested in a technical internship. 
-- ⚡ Fact: Dark Mode should be the default. 
+- ⚡ I'd be excited to know more about me too. 
 
 ### Connect with me:
 - Email : tejasmutalikdesai@gmail.com
 - Phone / Whatsapp: +91 9513801415
 
 - [![ LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tejas-mutalikdesai-58ba09235/)
-&nbsp;&nbsp;
+&nbsp;&nbsp; LinkdIn
 
-- [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/tejasmd_/)
+- [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/tejasmd_/)&nbsp;&nbsp; Instagram
 
 ### Languages and Tools:
 - Flutter
@@ -28,7 +28,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-MD&count_private=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 
-<br />
 <br />
 
 
@@ -48,13 +47,13 @@
   
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Tejas-MD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tejas-MD&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
+</details> -->
 
----
+<!-- --- -->
 
 
