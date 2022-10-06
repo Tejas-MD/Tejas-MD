@@ -14,10 +14,10 @@
 - Email : tejasmutalikdesai@gmail.com
 - Phone / Whatsapp: +91 9513801415
 
-- [![ LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tejas-mutalikdesai-58ba09235/)
-&nbsp;&nbsp; LinkdIn
+- [LinkedIn](https://www.linkedin.com/in/tejas-mutalikdesai-58ba09235/)
+&nbsp;&nbsp; 
 
-- [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/tejasmd_/)&nbsp;&nbsp; Instagram
+- [Instagram](https://www.instagram.com/tejasmd_/)
 
 ### Languages and Tools:
 - Flutter
