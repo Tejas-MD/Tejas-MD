@@ -54,7 +54,6 @@
 
 
   ---
- ![View Count](https://komarev.com/ghpvc/?username=Tejas-MD)
 
 
 <!-- <details>
@@ -67,5 +66,9 @@
 <!-- --- -->
 
 Check Resume [Here](https://drive.google.com/file/d/1BBU4lOTrn1z0wakYVtUWrEMtqbhYaacv/view?usp=sharing)
+
+
+ ![View Count](https://komarev.com/ghpvc/?username=Tejas-MD)
+
 
 
