@@ -52,7 +52,7 @@ I believe in learning through actually making real projects, cause let's be fran
     - MCU Programming ( PlatformIO and Espressif)
     - PCB Design and Soldering ( EasyEDA)
     - MQTT Server setup and hosting
--  Intruder Detection alert - Telegram Bot 
+-  Intruder Detection alert - Motion sensors and telgram call for alert
 - Zoom Auto Join (Python)
 -  Payload Drone 
 
