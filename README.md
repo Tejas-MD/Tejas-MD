@@ -70,9 +70,6 @@ I believe in learning through actually making real projects, cause let's be fran
 
 <!-- --- -->
 
-Check Resume [Here](https://drive.google.com/file/d/1BBU4lOTrn1z0wakYVtUWrEMtqbhYaacv/view?usp=sharing)
-
-
  ![View Count](https://komarev.com/ghpvc/?username=Tejas-MD)
 
 
